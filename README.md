@@ -18,5 +18,5 @@ Please fork this repository, add the files in your fork as you see fit and submi
 
 In order to organize these files, please use the naming `<IM-code> - <OP identifier | SoL identifier>.rdf`. The schematic layout plan extract should exactly reuse that name but use the PNG or equivalent file extension.
 
-## confidentiality
+## Confidentiality
 Never publish information on this public repository which would violate the confidentiality rules of your organization in regards to signalling layouts.
